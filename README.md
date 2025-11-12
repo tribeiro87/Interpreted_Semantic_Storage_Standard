@@ -15,7 +15,7 @@ Official technical whitepaper and research for .TRS — Tiago’s Regenerative S
 ---
 
 ### 📄 Documents  
-- [TRS Whitepaper v2.0 (PDF)](whitepaper/TRS_Whitepaper_v2.0.pdf)  
+- [TRS Whitepaper v2.0 (PDF)](whitepaper/TRS - AI-Interpreted Semantic Storage Standard.pdf)  
 - [Schema Definition (JSON)](schema/TRS_schema_v1.json)  
 - [Implementation Roadmap](whitepaper/TRS_Implementation_Roadmap.md)  
 
