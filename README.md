@@ -18,6 +18,16 @@ This concept marks the birth of a **regenerative digital ecosystem** — one whe
 
 ---
 
+## Current Research — TRIBE
+
+An independent research project named **TRIBE** is currently in development, focused on advanced local AI agents, reliability, efficiency, memory, learning, evaluation, and long-horizon task execution.
+
+Only the existence, scope, and research objectives of TRIBE are public. Technical architecture, implementation methods, internal mechanisms, training procedures, datasets, source code, and unpublished experimental results are intentionally not disclosed here.
+
+[Public research record](research/TRIBE_PUBLIC_RESEARCH_RECORD.md)
+
+---
+
 ## Core Principles  
 
 - **Semantic Compression:** Store meaning, not matter.  
